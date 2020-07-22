@@ -1,0 +1,11 @@
+{
+  "name": "my-personal-projects",
+  "version": "1.0.0",
+  "description": "This will load my personal html site",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
